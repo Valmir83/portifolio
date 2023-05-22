@@ -2,3 +2,4 @@
 # Início da criação do portifólio.
 
 ## Salvando alterações no Git
+* comando git push
